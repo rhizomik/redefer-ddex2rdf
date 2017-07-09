@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2009/ern-simple/102"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2009/ern-simple/102
+    http://ddex.net/xml/2009/ern-simple/102/ern-simple.xsd"
+    MessageSchemaVersionId="2009/ern-simple/102">
+    <MessageHeader>
+        <MessageThreadId>09876543</MessageThreadId>
+        <MessageId>09876543.1</MessageId>
+        <MessageSender>
+            <PartyId>1234</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>0987</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-10-08T15:25:12Z</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <Video>
+            <VideoId>
+                <ISRC>IORMP0712345</ISRC>
+            </VideoId>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Crazy</TitleText>
+            </ReferenceTitle>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Gnarls Barkley</FullName>
+                    </PartyName>
+                    <ArtistRole Namespace="1234" UserDefinedValue="Collaboration"
+                    >UserDefined</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Gnarls Barkley</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="1234" UserDefinedValue="Collaboration"
+                        >UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Danger Mouse</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Cee-Lo Green</FullName>
+                    </PartyName>
+                    <ResourceContributorRole Namespace="1234" UserDefinedValue="Rapper"
+                    >Artist</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Gian Piero Reverberi</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>StudioPersonnel</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Piero Reverberi Junior</FullName>
+                    </PartyName>
+                    <ResourceContributorRole>StudioPersonnel</ResourceContributorRole>
+                </ResourceContributor>            
+            </VideoDetailsByTerritory>
+        </Video>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <GRid>A10302B0000240612H</GRid>
+                <ProprietaryId Namespace="1234">0815-4711</ProprietaryId>
+            </ReleaseId>
+            <ReleaseReference>R1</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Crazy</TitleText>
+                <SubTitle>Video</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>              
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Gnarls Barkley </FullName>
+                    </PartyName>
+                    <ArtistRole Namespace="1234" UserDefinedValue="Collaboration"
+                    >UserDefined</ArtistRole>
+                </DisplayArtist>
+            </ReleaseDetailsByTerritory>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R1</DealReleaseReference>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <UserInterfaceType>PersonalComputer</UserInterfaceType>
+                        <UserInterfaceType>PhysicalMediaWriter</UserInterfaceType>
+                        <DistributionChannelType>Internet</DistributionChannelType>
+                    </Usage>
+                    <TerritoryCode>Worldwide</TerritoryCode>
+                    <PriceInformation>
+                        <PriceRangeType Namespace="1234">V11</PriceRangeType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2007-08-31</StartDate>
+                        <EndDate>2007-09-30</EndDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <Deal>
+                <DealTerms>
+                    <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <Usage>
+                        <UseType>PermanentDownload</UseType>
+                        <UserInterfaceType>PersonalComputer</UserInterfaceType>
+                        <UserInterfaceType>PhysicalMediaWriter</UserInterfaceType>
+                        <DistributionChannelType>Internet</DistributionChannelType>
+
+                    </Usage>
+                    <TerritoryCode>Worldwide</TerritoryCode>
+                    <PriceInformation>
+                        <PriceRangeType Namespace="1234">V12</PriceRangeType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2007-10-01</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2007-08-10</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

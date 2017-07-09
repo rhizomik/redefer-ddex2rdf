@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>ABCDEF</MessageThreadId>
+        <MessageId>ABCDEF1</MessageId>
+        <MessageSender>
+            <PartyId>WXY</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>QWERT</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-04-27T15:49:12+01:00</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USLVA6612345</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle><TitleText>In The Air Tonight</TitleText></ReferenceTitle>
+            <Duration>PT3M20S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Nonpoint</FullName>
+                    </PartyName>
+                </DisplayArtist>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Nonpoint</FullName>
+                    </PartyName>
+                    <ResourceContributorRole UserDefinedValue="Band" Namespace="WXY"
+                    >MainArtist</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Jason Bieler</FullName>
+                        <NamesBeforeKeyName>Jason</NamesBeforeKeyName>
+                        <KeyName>Bieler</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                    <ResourceContributorRole UserDefinedValue="Mixer" Namespace="WXY"
+                        >StudioPersonnel</ResourceContributorRole>
+                </ResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Phil Collins</FullName>
+                        <NamesBeforeKeyName>Phil</NamesBeforeKeyName>
+                        <KeyName>Collins</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>ComposerLyricist</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>EMI April Music o/b/o Hit &amp; Run Music Ltd</FullName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>MusicPublisher</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <RightsController>
+                    <PartyName>
+                        <FullName>Lava Records</FullName>
+                    </PartyName>
+                    <RightSharePercentage>100</RightSharePercentage>
+                </RightsController>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <GRid>A10302B0000269863K</GRid>
+            </ReleaseId>
+            <ReferenceTitle><TitleText>In The Air Tonight</TitleText></ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Various</DisplayArtistName>
+                <LabelName>Atlantic Records</LabelName>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Nonpoint</FullName>
+                    </PartyName>
+                </DisplayArtist>
+                <ReleaseType>RingtoneRelease</ReleaseType>
+            </ReleaseDetailsByTerritory>
+        </Release>
+    </ReleaseList>
+</ern:NewReleaseMessage>

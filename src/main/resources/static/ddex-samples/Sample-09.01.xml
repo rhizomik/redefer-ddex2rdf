@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewDealMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>123456789</MessageThreadId>
+        <MessageId>123456789.1</MessageId>
+        <MessageSender>
+            <PartyId>ABC</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>DEF</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-12-11T15:25:12Z</MessageCreatedDateTime>
+    </MessageHeader>
+
+    <ReleaseDeal>
+        <ReleaseId>
+            <ICPN IsEan="true">1234567899012</ICPN>
+        </ReleaseId>
+        <Deal>
+            <DealTerms>
+                <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                <Usage>
+                    <UseType>PermanentDownload</UseType>
+                    <DistributionChannelType>Internet</DistributionChannelType>
+                </Usage>
+                <TerritoryCode>DE</TerritoryCode>
+                <DistributionChannel>
+                    <PartyName>
+                        <FullName>ShopFront Ltd</FullName>
+                    </PartyName>
+                    <PartyId>DEF</PartyId>
+                    <TerritoryCode>GB</TerritoryCode>
+                </DistributionChannel>
+                <PriceInformation>
+                    <PriceRangeType Namespace="ABC">Angebot</PriceRangeType>
+                </PriceInformation>
+                <ValidityPeriod>
+                    <StartDate>2007-12-24</StartDate>
+                </ValidityPeriod>
+            </DealTerms>
+        </Deal>
+        <Deal>
+            <DealTerms>
+                <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                <Usage>
+                    <UseType>PermanentDownload</UseType>
+                    <DistributionChannelType>Internet</DistributionChannelType>
+                </Usage>
+                <TerritoryCode>GB</TerritoryCode>
+                <DistributionChannel>
+                    <PartyName>
+                        <FullName>ShopFront Ltd</FullName>
+                    </PartyName>
+                    <PartyId>DEF</PartyId>
+                    <TerritoryCode>GB</TerritoryCode>
+                </DistributionChannel>
+                <PriceInformation>
+                    <PriceRangeType Namespace="ABC">Budget</PriceRangeType>
+                </PriceInformation>
+                <ValidityPeriod>
+                    <StartDate>2007-12-25</StartDate>
+                </ValidityPeriod>
+            </DealTerms>
+        </Deal>
+        <EffectiveDate>2007-11-12</EffectiveDate>
+    </ReleaseDeal>
+</ern:NewDealMessage>

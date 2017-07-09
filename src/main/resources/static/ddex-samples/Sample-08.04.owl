@@ -1,0 +1,163 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:owl="http://www.w3.org/2002/07/owl#"
+ xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#"
+ xmlns:currency="http://rhizomik.net/ontologies/2011/06/iso4217a.owl#"
+ xmlns:territory="http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#"
+ xmlns:language="http://rhizomik.net/ontologies/2011/06/iso639a2.owl#"
+ xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#"
+ xmlns:dct="http://purl.org/dc/terms/"
+ xmlns:ma="http://www.w3.org/ns/ma-ont#">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:isrc:USRY20810140">
+   <ddex:isrc xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">USRY20810140</ddex:isrc>
+   <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#ShortFormMusicalWorkVideo"/>
+   <dct:extent xmlns:dct="http://purl.org/dc/terms/">PT5M20S</dct:extent>
+   <dct:creator xmlns:dct="http://purl.org/dc/terms/">
+      <rdfs:Resource xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                     rdf:about="http://mediamixer.eu/copyright/examples/talent/Freezepop">
+         <rdfs:label>Freezepop</rdfs:label>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/copyrightonto.owl#Creator"/>
+      </rdfs:Resource>
+   </dct:creator>
+   <dct:copyright xmlns:dct="http://purl.org/dc/terms/">2008 Freezepop</dct:copyright>
+   <ma:hasGenre xmlns:ma="http://www.w3.org/ns/ma-ont#">Electronica</ma:hasGenre>
+   <cro:hasInstance xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#">
+      <cro:Instance rdf:about="http://mediamixer.eu/copyright/examples/file/USRY20810140_15384.mpg">
+         <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">USRY20810140_15384.mpg</rdfs:label>
+         <ddex:path xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">/Users/roberto/Documents/Proyectos/MediaMixer/Demos/SemanticDDEX/ddex2rdf/src/main/webapp/ddex-samples/resources/USRY20810140_15384.mpg</ddex:path>
+         <dct:format xmlns:dct="http://purl.org/dc/terms/"
+                     rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#MPEG-2"/>
+         <ddex:isPreview xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">false</ddex:isPreview>
+      </cro:Instance>
+   </cro:hasInstance>
+   <cro:hasInstance xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#">
+      <cro:Instance rdf:about="http://mediamixer.eu/copyright/examples/file/USRY20810140_5000.mp4">
+         <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">USRY20810140_5000.mp4</rdfs:label>
+         <ddex:path xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">/Users/roberto/Documents/Proyectos/MediaMixer/Demos/SemanticDDEX/ddex2rdf/src/main/webapp/ddex-samples/resources/USRY20810140_5000.mp4</ddex:path>
+         <dct:format xmlns:dct="http://purl.org/dc/terms/"
+                     rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#MPEG-4"/>
+         <ddex:isPreview xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">false</ddex:isPreview>
+      </cro:Instance>
+   </cro:hasInstance>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:WMG:USRY20810140.sc1.jpg">
+   <ddex:propietaryId xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">WMG-USRY20810140.sc1.jpg</ddex:propietaryId>
+   <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#VideoScreenCapture"/>
+   <cro:hasInstance xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#">
+      <cro:Instance rdf:about="http://mediamixer.eu/copyright/examples/file/USRY20810140.sc1.jpg">
+         <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">USRY20810140.sc1.jpg</rdfs:label>
+         <ddex:path xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">/Users/roberto/Documents/Proyectos/MediaMixer/Demos/SemanticDDEX/ddex2rdf/src/main/webapp/ddex-samples/resources/USRY20810140.sc1.jpg</ddex:path>
+         <dct:format xmlns:dct="http://purl.org/dc/terms/"
+                     rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#JPEG"/>
+         <ma:frameHeight xmlns:ma="http://www.w3.org/ns/ma-ont#">480</ma:frameHeight>
+         <ma:frameWidth xmlns:ma="http://www.w3.org/ns/ma-ont#">640</ma:frameWidth>
+      </cro:Instance>
+   </cro:hasInstance>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:WMG:014431096662.75.jpg">
+   <ddex:propietaryId xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">WMG-014431096662.75.jpg</ddex:propietaryId>
+   <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#FrontCoverImage"/>
+   <cro:hasInstance xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#">
+      <cro:Instance rdf:about="http://mediamixer.eu/copyright/examples/file/014431096662.75.jpg">
+         <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">014431096662.75.jpg</rdfs:label>
+         <ddex:path xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">/Users/roberto/Documents/Proyectos/MediaMixer/Demos/SemanticDDEX/ddex2rdf/src/main/webapp/ddex-samples/resources/014431096662.75.jpg</ddex:path>
+         <dct:format xmlns:dct="http://purl.org/dc/terms/"
+                     rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#JPEG"/>
+         <ma:frameHeight xmlns:ma="http://www.w3.org/ns/ma-ont#">75</ma:frameHeight>
+         <ma:frameWidth xmlns:ma="http://www.w3.org/ns/ma-ont#">75</ma:frameWidth>
+      </cro:Instance>
+   </cro:hasInstance>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:grid:A10302B0000738284B">
+   <ddex:grid xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">A10302B0000738284B</ddex:grid>
+   <ddex:icpn xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">014431096761</ddex:icpn>
+   <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#VideoSingle"/>
+   <dct:title xmlns:dct="http://purl.org/dc/terms/">Frontload</dct:title>
+   <rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Frontload</rdfs:label>
+   <dct:alternative xmlns:dct="http://purl.org/dc/terms/">Frontload (Video Single)</dct:alternative>
+   <dct:copyright xmlns:dct="http://purl.org/dc/terms/">2008 Freezepop</dct:copyright>
+   <dct:copyright xmlns:dct="http://purl.org/dc/terms/">2008 Freezepop</dct:copyright>
+   <cro:hasPart xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#"
+               rdf:resource="urn:isrc:USRY20810140"/>
+   <cro:hasPart xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#"
+               rdf:resource="urn:WMG:USRY20810140.sc1.jpg"/>
+   <cro:hasPart xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#"
+               rdf:resource="urn:WMG:014431096662.75.jpg"/>
+   <dct:creator xmlns:dct="http://purl.org/dc/terms/">
+      <rdfs:Resource xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                     rdf:about="http://mediamixer.eu/copyright/examples/person/Freezepop">
+         <rdfs:label>Freezepop</rdfs:label>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/copyrightonto.owl#Person"/>
+      </rdfs:Resource>
+   </dct:creator>
+   <dct:publisher xmlns:dct="http://purl.org/dc/terms/">
+      <rdfs:Resource xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                     rdf:about="http://mediamixer.eu/copyright/examples/person/Cordless">
+         <rdfs:label>Cordless</rdfs:label>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/copyrightonto.owl#Person"/>
+      </rdfs:Resource>
+   </dct:publisher>
+   <ddex:genre xmlns:ddex="http://rhizomik.net/ontologies/2011/06/ddex.owl#">Electronica</ddex:genre>
+   <dct:issued xmlns:dct="http://purl.org/dc/terms/">2008-11-11</dct:issued>
+</rdf:Description>
+<cro:Agree xmlns:co="http://rhizomik.net/ontologies/copyrightonto.owl#"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          rdf:about="http://mediamixer.eu/copyright/examples/Sample-08.04.xml">
+   <cro:pointInTime>2009-10-07</cro:pointInTime>
+   <cro:theme>
+      <owl:Class xmlns:owl="http://www.w3.org/2002/07/owl#"
+                 rdf:about="http://mediamixer.eu/copyright/examples/Sample-08.04.xml#deal-1">
+         <rdf:type rdf:resource="http://mediamixer.eu/copyright/examples/Ad-Supported%20Streaming"/>
+         <rdf:type rdf:resource="http://mediamixer.eu/copyright/examples/Electronic%20Temporary%20Usage"/>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#PermanentDownload"/>
+         <owl:intersectionOf rdf:parseType="Collection">
+            <owl:Class>
+               <owl:unionOf rdf:parseType="Collection">
+                  <owl:Class rdf:about="http://rhizomik.net/ontologies/2011/06/ddex.owl#UserDefined"/>
+                  <owl:Class rdf:about="http://rhizomik.net/ontologies/2011/06/ddex.owl#UserDefined"/>
+                  <owl:Class rdf:about="http://rhizomik.net/ontologies/2011/06/ddex.owl#PermanentDownload"/>
+               </owl:unionOf>
+            </owl:Class>
+            <owl:Restriction>
+               <owl:someValuesFrom>
+                  <owl:Class>
+                     <owl:oneOf rdf:parseType="Collection">
+                        <owl:Thing rdf:about="urn:grid:A10302B0000738284B"/>
+                        <owl:Thing rdf:about="urn:isrc:USRY20810140"/>
+                        <owl:Thing rdf:about="urn:WMG:USRY20810140.sc1.jpg"/>
+                        <owl:Thing rdf:about="urn:WMG:014431096662.75.jpg"/>
+                     </owl:oneOf>
+                  </owl:Class>
+               </owl:someValuesFrom>
+               <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/copyrightonto.owl#theme"/>
+            </owl:Restriction>
+            <owl:Restriction>
+               <owl:onProperty rdf:resource="http://rhizomik.net/ontologies/copyrightonto.owl#location"/>
+               <owl:hasValue rdf:resource="http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#US"/>
+            </owl:Restriction>
+         </owl:intersectionOf>
+         <cro:aim rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#AsPerContractValue"/>
+         <cro:start>2009-10-13</cro:start>
+         <cro:condition>
+            <owl:Class>
+               <rdf:type rdf:resource="http://rhizomik.net/ontologies/2011/06/ddex.owl#PriceRangeType"/>
+               <rdf:value>V1</rdf:value>
+               <cro:currency rdf:resource="http://rhizomik.net/ontologies/2011/06/iso4217a.owl#"/>
+               <owl:intersectionOf rdf:parseType="Collection">
+                  <owl:Class rdf:about="http://rhizomik.net/ontologies/2011/06/ddex.owl#PriceRangeType"/>
+                  <owl:Restriction>
+                     <owl:onProperty rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#value"/>
+                     <owl:hasValue>V1</owl:hasValue>
+                  </owl:Restriction>
+               </owl:intersectionOf>
+            </owl:Class>
+         </cro:condition>
+      </owl:Class>
+   </cro:theme>
+</cro:Agree>
+</rdf:RDF>

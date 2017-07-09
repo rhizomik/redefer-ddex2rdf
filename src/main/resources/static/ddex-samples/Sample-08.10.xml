@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>ABCDEF</MessageThreadId>
+        <MessageId>ABCDEF1</MessageId>
+        <MessageSender>
+            <PartyId>WXY</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>QWERT</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-04-27T15:49:12+01:00</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Back in the U.S.S.R</TitleText>
+            </ReferenceTitle>
+            <Duration>PT2M43S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A2</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Dear Prudence</TitleText>
+            </ReferenceTitle>
+            <Duration>PT3M56S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A3</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Martha, my Dear</TitleText>
+            </ReferenceTitle>
+            <Duration>PT2M28S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A4</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>I'm so Tired</TitleText>
+            </ReferenceTitle>
+            <Duration>PT2M3S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A5</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Birthday</TitleText>
+            </ReferenceTitle>
+            <Duration>PT2M42S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A6</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Yer Blues</TitleText>
+            </ReferenceTitle>
+            <Duration>PT4M</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A7</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Revolution 1</TitleText>
+            </ReferenceTitle>
+            <Duration>PT4M15S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId/>
+            <ResourceReference>A8</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Honey Pie</TitleText>
+            </ReferenceTitle>
+            <Duration>PT2M40S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId/>
+            <ReferenceTitle>
+                <TitleText>The Beatles</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+                <ReleaseResourceReference>A2</ReleaseResourceReference>
+                <ReleaseResourceReference>A3</ReleaseResourceReference>
+                <ReleaseResourceReference>A4</ReleaseResourceReference>
+                <ReleaseResourceReference>A5</ReleaseResourceReference>
+                <ReleaseResourceReference>A6</ReleaseResourceReference>
+                <ReleaseResourceReference>A7</ReleaseResourceReference>
+                <ReleaseResourceReference>A8</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>The Beatles</DisplayArtistName>
+                <Title TitleType="AlternativeTitle">
+                    <TitleText>White Album</TitleText>
+                </Title>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>The Beatles</FullName>
+                        <NamesBeforeKeyName>The</NamesBeforeKeyName>
+                        <KeyName>Beatles</KeyName>
+                    </PartyName>
+                </DisplayArtist>
+                <ResourceGroup>
+                    <Title>
+                        <TitleText>Disk 1</TitleText>
+                    </Title>
+                    <SequenceNumber>1</SequenceNumber>
+                    <ResourceGroup>
+                        <Title>
+                            <TitleText>Side 1</TitleText>
+                        </Title>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference>A1</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference>A2</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroup>
+                        <Title>
+                            <TitleText>Side 2</TitleText>
+                        </Title>
+                        <SequenceNumber>2</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference>A3</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference>A4</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                </ResourceGroup>
+                <ResourceGroup>
+                    <Title>
+                        <TitleText>Disk 2</TitleText>
+                    </Title>
+                    <SequenceNumber>1</SequenceNumber>
+                    <ResourceGroup>
+                        <Title>
+                            <TitleText>Side 1</TitleText>
+                        </Title>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference>A5</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference>A6</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                    <ResourceGroup>
+                        <Title>
+                            <TitleText>Side 2</TitleText>
+                        </Title>
+                        <SequenceNumber>2</SequenceNumber>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>1</SequenceNumber>
+                            <ReleaseResourceReference>A7</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                        <ResourceGroupContentItem>
+                            <SequenceNumber>2</SequenceNumber>
+                            <ReleaseResourceReference>A8</ReleaseResourceReference>
+                        </ResourceGroupContentItem>
+                    </ResourceGroup>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+        </Release>
+    </ReleaseList>
+</ern:NewReleaseMessage>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312 http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>70684</MessageThreadId>
+        <MessageId>70684.1</MessageId>
+        <MessageSender>
+            <PartyId>PA-DPIDA-2007050901-U</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>PA-DPIDA-2007040501-K</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2009-10-07T05:20:28Z</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <Video>
+            <VideoType>ShortFormMusicalWorkVideo</VideoType>
+            <VideoId>
+                <ISRC>USRY20810140</ISRC>
+            </VideoId>
+            <ResourceReference>A1</ResourceReference>
+            <Duration>PT5M20S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>Frontload (Single Version)</TitleText>
+                    <SubTitle>Frontload</SubTitle>
+                </Title>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Freezepop</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <PLine>
+                    <Year>2008</Year>
+                    <PLineText>2008 Freezepop</PLineText>
+                </PLine>
+                <Genre>
+                    <GenreText>Electronica</GenreText>
+                </Genre>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+                    <VideoCodecType>MPEG-2</VideoCodecType>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>USRY20810140_15384.mpg</FileName>
+                        <HashSum>
+                            <HashSum>79b415a4ea467d338639ccf40a81f48d</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+                <TechnicalVideoDetails>
+                    <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+                    <VideoCodecType>MPEG-4</VideoCodecType>
+                    <IsPreview>false</IsPreview>
+                    <File>
+                        <FileName>USRY20810140_5000.mp4</FileName>
+                        <HashSum>
+                            <HashSum>77e7a93c465d5c45ed77e4c5124733fa</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalVideoDetails>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Image>
+            <ImageType>VideoScreenCapture</ImageType>
+            <ImageId>
+                <ProprietaryId Namespace="WMG">USRY20810140.sc1.jpg</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A2</ResourceReference>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight>480</ImageHeight>
+                    <ImageWidth>640</ImageWidth>
+                    <File>
+                        <FileName>USRY20810140.sc1.jpg</FileName>
+                        <HashSum>
+                            <HashSum>700130a10d7d61d9982d62dae6b76681</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+        <Image>
+            <ImageType>FrontCoverImage</ImageType>
+            <ImageId>
+                <ProprietaryId Namespace="WMG">014431096662.75.jpg</ProprietaryId>
+            </ImageId>
+            <ResourceReference>A3</ResourceReference>
+            <ImageDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <TechnicalImageDetails>
+                    <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+                    <ImageCodecType>JPEG</ImageCodecType>
+                    <ImageHeight>75</ImageHeight>
+                    <ImageWidth>75</ImageWidth>
+                    <File>
+                        <FileName>014431096662.75.jpg</FileName>
+                        <HashSum>
+                            <HashSum>ce1f2586bdfda240df4dac2bcafc1b34</HashSum>
+                            <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+                        </HashSum>
+                    </File>
+                </TechnicalImageDetails>
+            </ImageDetailsByTerritory>
+        </Image>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <GRid>A10302B0000738284B</GRid>
+                <ICPN IsEan="false">014431096761</ICPN>
+            </ReleaseId>
+            <ReleaseReference>R1</ReleaseReference>
+            <ReferenceTitle>
+                <TitleText>Frontload</TitleText>
+                <SubTitle>Frontload (Video Single)</SubTitle>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+                <ReleaseResourceReference>A2</ReleaseResourceReference>
+                <ReleaseResourceReference>A3</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseType>VideoSingle</ReleaseType>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Freezepop</DisplayArtistName>
+                <LabelName>Cordless</LabelName>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>Frontload</TitleText>
+                    <SubTitle>Frontload (Video Single)</SubTitle>
+                </Title>
+                <Title TitleType="GroupingTitle">
+                    <TitleText>Frontload</TitleText>
+                    <SubTitle>Frontload (Video Single)</SubTitle>
+                </Title>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Freezepop</FullName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ParentalWarningType>NotExplicit</ParentalWarningType>
+                <ResourceGroup>
+                    <SequenceNumber>1</SequenceNumber>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ReleaseResourceReference>A1</ReleaseResourceReference>
+                        <LinkedReleaseResourceReference>A2</LinkedReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+                <Genre>
+                    <GenreText>Electronica</GenreText>
+                </Genre>
+                <OriginalReleaseDate>2008-11-11</OriginalReleaseDate>
+                <Keywords>Freezepop Frontload Electronica </Keywords>
+            </ReleaseDetailsByTerritory>
+            <PLine>
+                <Year>2008</Year>
+                <PLineText>2008 Freezepop</PLineText>
+            </PLine>
+            <CLine>
+                <Year>2008</Year>
+                <CLineText>2008 Freezepop</CLineText>
+            </CLine>
+        </Release>
+    </ReleaseList>
+    <DealList>
+        <ReleaseDeal>
+            <DealReleaseReference>R1</DealReleaseReference>
+            <Deal>
+                <DealReference>136566419</DealReference>
+                <DealTerms>
+                    <CommercialModelType>AsPerContract</CommercialModelType>
+                    <Usage>
+                        <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+                        <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+                        <UseType>PermanentDownload</UseType>
+                    </Usage>
+                    <TerritoryCode>US</TerritoryCode>
+                    <PriceInformation>
+                        <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+                    </PriceInformation>
+                    <ValidityPeriod>
+                        <StartDate>2009-10-13</StartDate>
+                    </ValidityPeriod>
+                </DealTerms>
+            </Deal>
+            <EffectiveDate>2009-10-07</EffectiveDate>
+        </ReleaseDeal>
+    </DealList>
+</ern:NewReleaseMessage>

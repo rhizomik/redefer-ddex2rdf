@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewDealMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>123456789</MessageThreadId>
+        <MessageId>123456789.1</MessageId>
+        <MessageSender>
+            <PartyId>ABC</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>DEF</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-12-11T15:25:12Z</MessageCreatedDateTime>
+    </MessageHeader>
+    <ReleaseDeal>
+        <ReleaseId>
+            <ISRC>USLVA6612345</ISRC>
+        </ReleaseId>
+        <Deal>
+            <DealTerms>
+                <CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                <Usage>
+                    <UseType>UseAsRingbackTone</UseType>
+                </Usage>
+                <TerritoryCode>GB</TerritoryCode>
+                <PriceInformation>
+                    <WholesalePricePerUnit CurrencyCode="GBP">1.00</WholesalePricePerUnit>
+                </PriceInformation>
+                <ValidityPeriod>
+                    <StartDate>2007-12-24</StartDate>
+                </ValidityPeriod>
+            </DealTerms>
+        </Deal>
+        <EffectiveDate>2007-11-12</EffectiveDate>
+    </ReleaseDeal>
+</ern:NewDealMessage>

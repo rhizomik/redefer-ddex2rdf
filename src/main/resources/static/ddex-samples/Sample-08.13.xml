@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+  http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+  MessageSchemaVersionId="2010/ern-main/312">
+  <MessageHeader>
+    <MessageThreadId>6567</MessageThreadId>
+    <MessageId>65671</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2007011501Q</PartyId>
+      <PartyName>
+        <FullName>state51</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>#unknown#</PartyId>
+      <PartyName>
+        <FullName>izumi records</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId>PADPIDA2006111001O</PartyId>
+      <PartyName>
+        <FullName>AudioBucket</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2006-11-28T13:19:07+00:00</MessageCreatedDateTime>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>GBKVU0600048</ISRC>
+        <ProprietaryId Namespace="PADPIDA2007011501Q">267946960088</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A267946960088</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Do You Hear What I Hear?</TitleText>
+      </ReferenceTitle>
+      <Duration>PT0H4M20S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Duels</FullName>
+          </PartyName>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Duels</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Mixer" Namespace="PADPIDA2007011501Q"
+            >StudioPersonnel</ResourceContributorRole>
+          <ResourceContributorRole>Producer</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2006</Year>
+          <PLineText>Izumi Records</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T270179190033</TechnicalResourceDetailsReference>
+          <AudioCodecType>WMA</AudioCodecType>
+          <BitRate>20</BitRate>
+          <NumberOfChannels>1</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <File>
+            <FileName>270179190033.wma</FileName>
+            <FilePath>http://mog.state51.co.uk/tid/d1b9d93f1732ccdc50c29a8f507d65dcfaa50d43/dvjlktc/bhqpsugaz/270179190033.wma</FilePath>
+            <HashSum>
+              <HashSum>NR4FMm5G7jWiEIuPWUqbHOPb9yU</HashSum>
+              <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T270175110033</TechnicalResourceDetailsReference>
+          <AudioCodecType>WMA</AudioCodecType>
+          <BitRate>128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <File>
+            <FileName>270175110033.wma</FileName>
+            <FilePath>http://mog.state51.co.uk/tid/e63431d84b8d66f3b741377b3735b702297e2a2a/dvjlktc/bhqpjwcnx/270175110033.wma</FilePath>
+            <HashSum>
+              <HashSum>QFVTJD/8CITeypgx1oBkM3zBKEQ</HashSum>
+              <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>GBKVU0600049</ISRC>
+        <ProprietaryId Namespace="PADPIDA2007011501Q">267946980088</ProprietaryId>
+      </SoundRecordingId>
+      <ResourceReference>A267946980088</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Little Drummer Boy</TitleText>
+        <SubTitle>Black Forest Version</SubTitle>
+      </ReferenceTitle>
+      <Duration>PT0H4M2S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Iain Archer</FullName>
+          </PartyName>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Iain Archer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Mixer" Namespace="PADPIDA2007011501Q"
+            >StudioPersonnel</ResourceContributorRole>
+          <ResourceContributorRole>Producer</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2006</Year>
+          <PLineText>Izumi Records</PLineText>
+        </PLine>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T270176720033</TechnicalResourceDetailsReference>
+          <AudioCodecType>WMA</AudioCodecType>
+          <BitRate>20</BitRate>
+          <NumberOfChannels>1</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <File>
+            <FileName>270176720033.wma</FileName>
+            <FilePath>http://mog.state51.co.uk/tid/ef2dd7910a4b80080137b2c31674e6b915b1f1b6/dvjlktc/bhqpnjsez/270176720033.wma</FilePath>
+            <HashSum>
+              <HashSum>zpDIaPEFM+aWQ7L/tuJbgGzdNi0</HashSum>
+              <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+        <TechnicalSoundRecordingDetails>
+          <TechnicalResourceDetailsReference>T270194240033</TechnicalResourceDetailsReference>
+          <AudioCodecType>WMA</AudioCodecType>
+          <BitRate>128</BitRate>
+          <NumberOfChannels>2</NumberOfChannels>
+          <SamplingRate>44100</SamplingRate>
+          <BitsPerSample>16</BitsPerSample>
+          <File>
+            <FileName>270194240033.wma</FileName>
+            <FilePath>http://mog.state51.co.uk/tid/0c8b1bda75b795c60111637cfecc3a4dac760e45/dvjlktc/bhqqzsnjd/270194240033.wma</FilePath>
+            <HashSum>
+              <HashSum>ubzdHTb+q6PmTzqIfGcO+jVc6W8</HashSum>
+              <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalSoundRecordingDetails>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="PADPIDA2007011501Q">267991410054#150#150#jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A267991410054</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T267991410054</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>150</ImageHeight>
+          <ImageWidth>150</ImageWidth>
+          <File>
+            <FileName>#unknkown#</FileName>
+            <HashSum>
+              <HashSum>mBib3xXyrNZ55jLXf959ZdYXGi8</HashSum>
+              <HashSumAlgorithmType>SHA1</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ISRC>GBKVU0600048</ISRC>
+        <ProprietaryId Namespace="PADPIDA2007011501Q">267946970087</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R267946960088</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Do You Hear What I Hear?</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A267946960088</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Duels</DisplayArtistName>
+        <LabelName>izumi records</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Duels</FullName>
+          </PartyName>
+        </DisplayArtist>
+        <ReleaseType>SingleResourceRelease</ReleaseType>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+      </ReleaseDetailsByTerritory>
+      <Duration>PT0H4M20S</Duration>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="true">5060084077911</ICPN>
+        <CatalogNumber Namespace="izumi-records-0">IZCD001</CatalogNumber>
+        <ProprietaryId Namespace="PADPIDA2007011501Q">267946950032</ProprietaryId>
+      </ReleaseId>
+      <ReleaseReference>R267946950032</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>It's Not Like Christmas</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A267991410054</ReleaseResourceReference>
+        <ReleaseResourceReference>A267946960088</ReleaseResourceReference>
+        <ReleaseResourceReference>A267946980088</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Various Artists</DisplayArtistName>
+        <LabelName>izumi records</LabelName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Various Artists</FullName>
+          </PartyName>
+        </DisplayArtist>
+        <ReleaseType>Album</ReleaseType>
+        <ParentalWarningType>NotExplicit</ParentalWarningType>
+        <Genre>
+          <GenreText>Alternative</GenreText>
+        </Genre>
+        <OriginalReleaseDate>2006-12-11</OriginalReleaseDate>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2006</Year>
+        <PLineText>Izumi Records</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2006</Year>
+        <CLineText>Izumi Records</CLineText>
+      </CLine>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

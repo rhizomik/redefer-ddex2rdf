@@ -1,0 +1,178 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>DDEX to RDF Transformation</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="header">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#js-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#" class="navbar-left"><img class="pull-left" style="max-width:50px" src="images/rhizomikEye.png"/></a>
+                <a class="navbar-brand" ui-sref="datasets-list">Rhizomik <b>ReDeFer</b></a>
+            </div>
+            <div class="collapse navbar-collapse" id="js-navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a ui-sref="datasets-list">DDEX to RDF</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Map DDEX URL to RDF</h3>
+        </div>
+        <div class="panel-body">
+            <div class="col-sm-12">
+                <form action="map" method="get" id="mapURL" name="mapURL">
+                    <div class="form-group row">
+                        <div class="input-group">
+                            <span class="input-group-addon">URL</span>
+                            <input type="text" name="url" id="url" class="form-control"
+                                   placeholder="...pointing to DDEX XML content">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="submit">
+                                    <span class="glyphicon glyphicon-cog"></span> Map to RDF
+                                </button>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="panel-footer">
+            <h5>Examples</h5>
+            <div class="row" style="font-size: smaller">
+                <div class="col-sm-4">
+                    <ul>
+                        <li><a id="sample-08.04" href="ddex-samples/Sample-08.04.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.04').href; return false">
+                            Sample-08.04.xml</a></li>
+                        <li><a id="sample-08.05" href="ddex-samples/Sample-08.05.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.05').href; return false">
+                            Sample-08.05.xml</a></li>
+                        <li><a id="sample-08.06" href="ddex-samples/Sample-08.06.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.06').href; return false">
+                            Sample-08.06.xml</a></li>
+                        <li><a id="sample-08.07" href="ddex-samples/Sample-08.07.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.07').href; return false">
+                            Sample-08.07.xml</a></li>
+                        <li><a id="sample-08.08" href="ddex-samples/Sample-08.08.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.08').href; return false">
+                            Sample-08.08.xml</a></li>
+                        <li><a id="sample-08.09" href="ddex-samples/Sample-08.09.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.09').href; return false">
+                            Sample-08.09.xml</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul>
+                        <li><a id="sample-08.10" href="ddex-samples/Sample-08.10.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.10').href; return false">
+                            Sample-08.10.xml</a></li>
+                        <li><a id="sample-08.11" href="ddex-samples/Sample-08.11.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.11').href; return false">
+                            Sample-08.11.xml</a></li>
+                        <li><a id="sample-08.12" href="ddex-samples/Sample-08.12.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.12').href; return false">
+                            Sample-08.12.xml</a></li>
+                        <li><a id="sample-08.13" href="ddex-samples/Sample-08.13.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.13').href; return false">
+                            Sample-08.13.xml</a></li>
+                        <li><a id="sample-08.14" href="ddex-samples/Sample-08.14.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-08.14').href; return false">
+                            Sample-08.14.xml</a></li>
+                        <li><a id="sample-09.01" href="ddex-samples/Sample-09.01.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.01').href; return false">
+                            Sample-09.01.xml</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4">
+                    <ul>
+                        <li><a id="sample-09.02" href="ddex-samples/Sample-09.02.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.02').href; return false">
+                            Sample-09.02.xml</a></li>
+                        <li><a id="sample-09.03" href="ddex-samples/Sample-09.03.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.03').href; return false">
+                            Sample-09.03.xml</a></li>
+                        <li><a id="sample-09.04" href="ddex-samples/Sample-09.04.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.04').href; return false">
+                            Sample-09.04.xml</a></li>
+                        <li><a id="sample-09.05" href="ddex-samples/Sample-09.05.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.05').href; return false">
+                            Sample-09.05.xml</a></li>
+                        <li><a id="sample-09.06" href="ddex-samples/Sample-09.06.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-09.06').href; return false">
+                            Sample-09.06.xml</a></li>
+                        <li><a id="sample-10.01" href="ddex-samples/Sample-10.01.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-10.01').href; return false">
+                            Sample-10.01.xml</a></li>
+                        <li><a id="sample-10.02" href="ddex-samples/Sample-10.02.xml"
+                               onclick="document.mapURL.url.value=document.getElementById('sample-10.02').href; return false">
+                            Sample-10.02.xml</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Map DDEX XML to RDF</h3>
+        </div>
+        <div class="panel-body">
+            <div class="col-sm-12">
+                <form action="map" method="post" id="map" name="map" enctype="multipart/form-data">
+                    <div class="form-group row">
+                        <textarea class="form-control" name="xml" id="xml" rows="7"
+                                  style="font-size: smaller"></textarea>
+                    </div>
+                    <div class="form-group row" align="center">
+                        <span class="input-group">
+                            <button class="btn btn-default" id="post-btn" type="submit">
+                                <span class="glyphicon glyphicon-cog"></span> Map to RDF
+                            </button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <div class="container" align="center">
+        <p><span class="glyphicon glyphicon-wrench"></span> by <a href="http://rhizomik.net">rhizomik.net</a></p>
+    </div>
+</div>
+
+<a title="web analytics" href="http://statcounter.com/" target="_blank">
+    <img src="//c.statcounter.com/1079093/0/d0b3f09b/1/" alt="web analytics" style="border:none;">
+</a>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-364147-1', 'auto');
+    ga('send', 'pageview');
+</script>
+
+</body>
+</html>

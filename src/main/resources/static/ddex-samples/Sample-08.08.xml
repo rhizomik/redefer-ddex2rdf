@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>09876543</MessageThreadId>
+        <MessageId>09876543.1</MessageId>
+        <MessageSender>
+            <PartyId>1234</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>0987</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-12-11T15:25:12Z</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>UpdateMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBRMP0712345</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Allegreto Sherzando</TitleText>
+            </ReferenceTitle>
+            <Duration>PT3M20S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93 - 1. Allegretto Scherzando</TitleText>
+                </Title>
+                <Title TitleType="GroupingTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93</TitleText>
+                </Title>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBRMP0778901</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A2</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Timp di menuetto</TitleText>
+            </ReferenceTitle>
+            <Duration>PT3M20S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93 - 2. Tempo di Menuetto</TitleText>
+                </Title>
+                <Title TitleType="GroupingTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93</TitleText>
+                </Title>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Ludwig van Beethoven</FullName>
+                    </PartyName>
+                </IndirectResourceContributor>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>GBRMP0710293</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A3</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Allegro Vivace</TitleText>
+            </ReferenceTitle>
+            <Duration>PT3M20S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <Title TitleType="DisplayTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93 - 3. Allegro Vivace</TitleText>
+                </Title>
+                <Title TitleType="GroupingTitle">
+                    <TitleText>Symphony No.8 in F Major, Op.93</TitleText>
+                </Title>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Ludwig van Beethoven</FullName>
+                    </PartyName>
+                </IndirectResourceContributor>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <GRid>A1000001234567890A</GRid>
+            </ReleaseId>
+            <ReferenceTitle>
+                <TitleText>Symphony No.8 in F Major, Op.93</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+                <ReleaseResourceReference>A2</ReleaseResourceReference>
+                <ReleaseResourceReference>A3</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Peter Konduckter</DisplayArtistName>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Peter Konduckter</FullName>
+                    </PartyName>
+                    <ArtistRole>Conductor</ArtistRole>
+                </DisplayArtist>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Ludwig van Beethoven</FullName>
+                    </PartyName>
+                    <ArtistRole>ComposerLyricist</ArtistRole>
+                </DisplayArtist>
+                <ResourceGroup>
+                    <Title>
+                        <TitleText>Symphony No.8 in F Major, Op.93</TitleText>
+                    </Title>
+                    <SequenceNumber>1</SequenceNumber>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>1</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference>A1</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>2</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference>A2</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                    <ResourceGroupContentItem>
+                        <SequenceNumber>3</SequenceNumber>
+                        <ResourceType>SoundRecording</ResourceType>
+                        <ReleaseResourceReference>A3</ReleaseResourceReference>
+                    </ResourceGroupContentItem>
+                </ResourceGroup>
+            </ReleaseDetailsByTerritory>
+        </Release>
+    </ReleaseList>
+</ern:NewReleaseMessage>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+  http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+  MessageSchemaVersionId="2010/ern-main/312">
+  <MessageHeader>
+    <MessageThreadId>6567</MessageThreadId>
+    <MessageId>65671</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA2007011501Q</PartyId>
+      <PartyName>
+        <FullName>state51</FullName>
+      </PartyName>
+    </MessageSender>
+    <SentOnBehalfOf>
+      <PartyId>#unknown#</PartyId>
+      <PartyName>
+        <FullName>izumi records</FullName>
+      </PartyName>
+    </SentOnBehalfOf>
+    <MessageRecipient>
+      <PartyId>PADPIDA2006111001O</PartyId>
+      <PartyName>
+        <FullName>AudioBucket</FullName>
+      </PartyName>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2006-11-28T13:19:07+00:00</MessageCreatedDateTime>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <WorkList>
+    <MusicalWork>
+      <MusicalWorkId>
+        <ProprietaryId Namespace="HWV">1</ProprietaryId>
+      </MusicalWorkId>
+      <MusicalWorkReference>W1</MusicalWorkReference>
+      <ReferenceTitle>
+        <TitleText>Almira, Königin von Kastilien</TitleText>
+      </ReferenceTitle>
+      <MusicalWorkContributor>
+        <PartyName>
+          <FullName>Georg Friedrich Händel</FullName>
+          <NamesBeforeKeyName>Georg Friedrich</NamesBeforeKeyName>
+          <KeyName>Händel</KeyName>
+        </PartyName>
+        <MusicalWorkContributorRole>Composer</MusicalWorkContributorRole>
+      </MusicalWorkContributor>
+    </MusicalWork>
+    <MusicalWork>
+      <MusicalWorkId>
+        <ProprietaryId Namespace="HWV">6</ProprietaryId>
+      </MusicalWorkId>
+      <MusicalWorkReference>W2</MusicalWorkReference>
+      <ReferenceTitle>
+        <TitleText>Aggippina</TitleText>
+      </ReferenceTitle>
+      <MusicalWorkContributor>
+        <PartyName>
+          <FullName>Georg Friedrich Händel</FullName>
+          <NamesBeforeKeyName>Georg Friedrich</NamesBeforeKeyName>
+          <KeyName>Händel</KeyName>
+        </PartyName>
+        <MusicalWorkContributorRole>Composer</MusicalWorkContributorRole>
+      </MusicalWorkContributor>
+    </MusicalWork>
+    <MusicalWork>
+      <MusicalWorkId>
+        <ProprietaryId Namespace="HWV">7a/7b</ProprietaryId>
+      </MusicalWorkId>
+      <MusicalWorkReference>W3</MusicalWorkReference>
+      <ReferenceTitle>
+        <TitleText>Rinaldo</TitleText>
+      </ReferenceTitle>
+      <MusicalWorkContributor>
+        <PartyName>
+          <FullName>Georg Friedrich Händel</FullName>
+          <NamesBeforeKeyName>Georg Friedrich</NamesBeforeKeyName>
+          <KeyName>Händel</KeyName>
+        </PartyName>
+        <MusicalWorkContributorRole>Composer</MusicalWorkContributorRole>
+      </MusicalWorkContributor>
+    </MusicalWork>
+  </WorkList>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DE0000700001</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Almira, Königin von Kastilien: Ouvertüre</TitleText>
+      </ReferenceTitle>
+      <Duration>PT10M</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DE0000700501</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Aggippina: Ouvertüre</TitleText>
+      </ReferenceTitle>
+      <Duration>PT10M</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingId>
+        <ISRC>DE0000700201</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Rinaldo: Overtüre</TitleText>
+      </ReferenceTitle>
+      <Duration>PT10M</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <ICPN IsEan="true">1234567890123</ICPN>
+      </ReleaseId>
+      <ReferenceTitle>
+        <TitleText>Almira, Aggippina and Rinaldo</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A1</ReleaseResourceReference>
+        <ReleaseResourceReference>A2</ReleaseResourceReference>
+        <ReleaseResourceReference>A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Georg Friedrich Händel</DisplayArtistName>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Georg Friedrich Händel</FullName>
+            <NamesBeforeKeyName>Georg Friedrich</NamesBeforeKeyName>
+            <KeyName>Händel</KeyName>
+          </PartyName>
+          <ArtistRole>Composer</ArtistRole>
+        </DisplayArtist>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">1234567890123</ICPN>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText/>
+          </ReferenceTitle>
+          <ReleaseSummaryDetailsByTerritory>
+            <TerritoryCode>Worldwide</TerritoryCode>
+          </ReleaseSummaryDetailsByTerritory>
+          <ReleaseRelationshipType Namespace="PADPIDA2007011501Q" UserDefinedValue="CD"
+            >UserDefined</ReleaseRelationshipType>
+        </RelatedRelease>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">0987654321876</ICPN>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText/>
+          </ReferenceTitle>
+          <ReleaseSummaryDetailsByTerritory>
+            <TerritoryCode>Worldwide</TerritoryCode>
+          </ReleaseSummaryDetailsByTerritory>
+          <ReleaseRelationshipType Namespace="PADPIDA2007011501Q" UserDefinedValue="CD"
+            >UserDefined</ReleaseRelationshipType>
+        </RelatedRelease>
+        <RelatedRelease>
+          <ReleaseId>
+            <ICPN IsEan="true">6301965729183</ICPN>
+          </ReleaseId>
+          <ReferenceTitle>
+            <TitleText/>
+          </ReferenceTitle>
+          <ReleaseSummaryDetailsByTerritory>
+            <TerritoryCode>Worldwide</TerritoryCode>
+          </ReleaseSummaryDetailsByTerritory>
+          <ReleaseRelationshipType Namespace="PADPIDA2007011501Q" UserDefinedValue="CD"
+            >UserDefined</ReleaseRelationshipType>
+        </RelatedRelease>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Almira, Königin von Kastilien</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <ReleaseResourceReference>A1</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Aggippina</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <ReleaseResourceReference>A2</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+          <ResourceGroup>
+            <Title>
+              <TitleText>Rinaldo</TitleText>
+            </Title>
+            <SequenceNumber>1</SequenceNumber>
+            <ResourceGroupContentItem>
+              <ReleaseResourceReference>A3</ReleaseResourceReference>
+            </ResourceGroupContentItem>
+          </ResourceGroup>
+        </ResourceGroup>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312
+    http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+    MessageSchemaVersionId="2010/ern-main/312">
+    <MessageHeader>
+        <MessageThreadId>ABCDEF</MessageThreadId>
+        <MessageId>ABCDEF.1</MessageId>
+        <MessageSender>
+            <PartyId>WXY</PartyId>
+        </MessageSender>
+        <MessageRecipient>
+            <PartyId>QWERT</PartyId>
+        </MessageRecipient>
+        <MessageCreatedDateTime>2007-04-27T08:49:12+01:00</MessageCreatedDateTime>
+    </MessageHeader>
+    <UpdateIndicator>OriginalMessage</UpdateIndicator>
+    <ResourceList>
+        <SoundRecording>
+            <SoundRecordingId>
+                <ISRC>USWAR0609876</ISRC>
+            </SoundRecordingId>
+            <ResourceReference>A1</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Turn It Up</TitleText>
+            </ReferenceTitle>
+            <Duration>PT5M1S</Duration>
+            <SoundRecordingDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole UserDefinedValue="Vocals" Namespace="WXY">MainArtist</ResourceContributorRole>
+                    <ResourceContributorRole UserDefinedValue="Background Vocals" Namespace="WXY"
+                        >PrimaryMusician</ResourceContributorRole>
+                    <ResourceContributorRole UserDefinedValue="Executive Producer" Namespace="WXY"
+                        >Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Tom Whalley</FullName>
+                        <NamesBeforeKeyName>Tom</NamesBeforeKeyName>
+                        <KeyName>Whalley</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole UserDefinedValue="ExecutiveProducer" Namespace="WXY"
+                        >Producer</ResourceContributorRole>
+                </ResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>ComposerLyricist</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Scott Stortch</FullName>
+                        <NamesBeforeKeyName>Scott</NamesBeforeKeyName>
+                        <KeyName>Stortch</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>ComposerLyricist</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Penelope Magnet</FullName>
+                        <NamesBeforeKeyName>Penelope</NamesBeforeKeyName>
+                        <KeyName>Magney</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>ComposerLyricist</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+                <IndirectResourceContributor>
+                    <PartyName>
+                        <FullName>Jeff Bowden</FullName>
+                        <NamesBeforeKeyName>Jeff</NamesBeforeKeyName>
+                        <KeyName>Bowden</KeyName>
+                    </PartyName>
+                    <IndirectResourceContributorRole>ComposerLyricist</IndirectResourceContributorRole>
+                </IndirectResourceContributor>
+            </SoundRecordingDetailsByTerritory>
+        </SoundRecording>
+        <Video>
+            <VideoType>ShortFormMusicalWorkVideo</VideoType>
+            <VideoId>
+                <ISRC>USWAR0610293</ISRC>
+            </VideoId>
+            <ResourceReference>A15</ResourceReference>
+            <ReferenceTitle>
+                <TitleText>Stars Are Blind</TitleText>
+            </ReferenceTitle>
+            <Duration>PT3M10S</Duration>
+            <VideoDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <ArtistRole>MainArtist</ArtistRole>
+                </DisplayArtist>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole UserDefinedValue="Vocals" Namespace="WXY"
+                    >MainArtist</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>Chris Applebaum</FullName>
+                        <NamesBeforeKeyName>Chris</NamesBeforeKeyName>
+                        <KeyName>Applebaum</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole UserDefinedValue="Director" Namespace="WXY"
+                    >UserDefined</ResourceContributorRole>
+                </ResourceContributor>
+                <ResourceContributor>
+                    <PartyName>
+                        <FullName>John Hardin</FullName>
+                        <NamesBeforeKeyName>John</NamesBeforeKeyName>
+                        <KeyName>Hardin</KeyName>
+                    </PartyName>
+                    <ResourceContributorRole>Producer</ResourceContributorRole>
+                </ResourceContributor>
+            </VideoDetailsByTerritory>
+        </Video>
+        <Text>
+            <TextType>NonInteractiveBooklet</TextType>
+            <TextId>
+                <ProprietaryId Namespace="WMX">A16</ProprietaryId>
+            </TextId>
+            <ResourceReference>A16</ResourceReference>
+            <TextDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <TechnicalTextDetails>
+                    <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+                    <TextCodecType>PDF</TextCodecType>
+                </TechnicalTextDetails>
+            </TextDetailsByTerritory>
+        </Text>
+    </ResourceList>
+    <ReleaseList>
+        <Release>
+            <ReleaseId>
+                <ICPN IsEan="false">123456789009</ICPN>
+            </ReleaseId>
+            <ReferenceTitle>
+                <TitleText>Paris</TitleText>
+            </ReferenceTitle>
+            <ReleaseResourceReferenceList>
+                <ReleaseResourceReference>A1</ReleaseResourceReference>
+                <ReleaseResourceReference>A15</ReleaseResourceReference>
+                <ReleaseResourceReference>A16</ReleaseResourceReference>
+            </ReleaseResourceReferenceList>
+            <ReleaseDetailsByTerritory>
+                <TerritoryCode>Worldwide</TerritoryCode>
+                <DisplayArtistName>Paris Hilton</DisplayArtistName>
+                <DisplayArtist>
+                    <PartyName>
+                        <FullName>Paris Hilton</FullName>
+                        <NamesBeforeKeyName>Paris</NamesBeforeKeyName>
+                        <KeyName>Hilton</KeyName>
+                    </PartyName>
+                    <ArtistRole>FeaturedArtist</ArtistRole>
+                </DisplayArtist>
+                <RelatedRelease>
+                    <ReleaseId>
+                        <ICPN IsEan="false">123456789009</ICPN>
+                    </ReleaseId>
+                    <ReferenceTitle>
+                        <TitleText/>
+                    </ReferenceTitle>
+                    <ReleaseSummaryDetailsByTerritory>
+                        <TerritoryCode>Worldwide</TerritoryCode>
+                    </ReleaseSummaryDetailsByTerritory>
+                    <ReleaseRelationshipType>HasSameRecordingProject</ReleaseRelationshipType>
+                </RelatedRelease>
+                <Genre>
+                    <GenreText>Pop</GenreText>
+                </Genre>
+                <OriginalDigitalReleaseDate>2006-08-22</OriginalDigitalReleaseDate>
+            </ReleaseDetailsByTerritory>
+        </Release>
+    </ReleaseList>
+</ern:NewReleaseMessage>

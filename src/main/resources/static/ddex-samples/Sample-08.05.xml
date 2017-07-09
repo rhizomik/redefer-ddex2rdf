@@ -1,0 +1,3741 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/2010/ern-main/312"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://ddex.net/xml/2010/ern-main/312  http://ddex.net/xml/2010/ern-main/312/ern-main.xsd"
+  MessageSchemaVersionId="2010/ern-main/312">
+  <MessageHeader>
+    <MessageThreadId>70687</MessageThreadId>
+    <MessageId>70687.1</MessageId>
+    <MessageSender>
+      <PartyId>PA-DPIDA-2007050901-U</PartyId>
+    </MessageSender>
+    <MessageRecipient>
+      <PartyId>PA-DPIDA-2007040501-K</PartyId>
+    </MessageRecipient>
+    <MessageCreatedDateTime>2009-10-07T05:21:54Z</MessageCreatedDateTime>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500287</ISRC>
+      </VideoId>
+      <ResourceReference>A1</ResourceReference>
+      <Duration>PT12M1S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Intro (Live Video)</TitleText>
+          <SubTitle>Intro</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Performed by"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Richard Strauss</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500287_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>7c9777d25b821be9cfc485c2c6711108</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500287_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>e6405f3b05a61551cca4bb4da6918119</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500288</ISRC>
+      </VideoId>
+      <ResourceReference>A2</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>American Idiot (Live Video)</TitleText>
+          <SubTitle>American Idiot</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>FRANK WRIGHT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MICHAEL PRITCHARD</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tre Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500288_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>6af60db4cfdd32a73da8754d63826f43</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500288_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>aba290f1689e460f9aa5f01d835427a2</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500289</ISRC>
+      </VideoId>
+      <ResourceReference>A3</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jesus Of Suburbia (Live Video)</TitleText>
+          <SubTitle>Jesus Of Suburbia</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500289_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>0800625c0bc8ca63b8c2940d454eca9d</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500289_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>65f3667a3d4de757196a87572fc641e6</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500290</ISRC>
+      </VideoId>
+      <ResourceReference>A4</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Holiday (Live Video)</TitleText>
+          <SubTitle>Holiday</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500290_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>838a71a2fe3ef8be286b3e327f557860</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500290_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>73893cdb1000d8f3527dc6b9e3caf1d7</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500291</ISRC>
+      </VideoId>
+      <ResourceReference>A5</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Are We The Waiting (Live Video)</TitleText>
+          <SubTitle>Are We The Waiting</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500291_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>8c8698561726d9b3ef7e953138c7d977</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500291_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>f4d83a82a05f664a9ef480d5a1564d9a</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500292</ISRC>
+      </VideoId>
+      <ResourceReference>A6</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>St. Jimmy (Live Video)</TitleText>
+          <SubTitle>St. Jimmy</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500292_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>e2dd719c5fe3b323debdef2683e03567</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500292_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>575be471f0484bbdb22c58f0483aa483</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500293</ISRC>
+      </VideoId>
+      <ResourceReference>A7</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Longview (Live Video)</TitleText>
+          <SubTitle>Longview</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Alex Shaw</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside of the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T13</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500293_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>7105ef10d6fc1bd11f5b3c3a6c031771</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T14</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500293_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>dcf1657a0c59b8ab81b9a3e782d69cf6</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500294</ISRC>
+      </VideoId>
+      <ResourceReference>A8</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Hitchin&apos; A Ride (Live Video)</TitleText>
+          <SubTitle>Hitchin&apos; A Ride</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Backing Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside of the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T15</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500294_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>736839db7b2dd7209f87a320f080e0d7</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T16</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500294_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>9fe71a862d0a79953ea7bbeb3ee11ffd</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500295</ISRC>
+      </VideoId>
+      <ResourceReference>A9</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Brain Stew (Live Video)</TitleText>
+          <SubTitle>Brain Stew</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Alex Shaw</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>BILLY JOE ARMSTRONG</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Background Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T17</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500295_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>80a2079ecd9175f8cf3833f2d846b5fe</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T18</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500295_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>dd58fe5d86607344da931eb64e2357a0</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500296</ISRC>
+      </VideoId>
+      <ResourceReference>A10</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Basket Case (Live Video)</TitleText>
+          <SubTitle>Basket Case</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Alex Shaw</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>BILLIE JOE</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>FRANK WRIGHT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Joe and Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MICHAEL PRITCHARD</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside of the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T19</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500296_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>2a2029e4d97ece7a321d708c3fa7454e</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T20</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500296_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>e19ab0663c6d96352144d15884798d43</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500297</ISRC>
+      </VideoId>
+      <ResourceReference>A11</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>King For A Day/Shout (Live Video)</TitleText>
+          <SubTitle>King For A Day/Shout</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Eric Idle</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kelly O Isley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RONALD ISLEY</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RUDOLPH ISLEY</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Writer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside of the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T21</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500297_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>a3fa80fc4739fd49beabf45a5151827b</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T22</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500297_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>988e2cfcc96f1dbef28e8869d5a34011</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500298</ISRC>
+      </VideoId>
+      <ResourceReference>A12</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Wake Me Up When September Ends (Live Video)</TitleText>
+          <SubTitle>Wake Me Up When September Ends</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T23</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500298_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>4a97b6109a2be9282222b4715ca2adda</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T24</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500298_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>e9a99a764d31fa44c984725c89457230</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500299</ISRC>
+      </VideoId>
+      <ResourceReference>A13</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Minority (Live Video)</TitleText>
+          <SubTitle>Minority</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>BILLY JOE ARMSTRONG</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2000</Year>
+          <PLineText>2000 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T25</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500299_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>64ee4db06fcbb851ac45e064f0912310</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T26</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500299_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>62af9d1822f0266dd1c59526f3ed1baa</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500300</ISRC>
+      </VideoId>
+      <ResourceReference>A14</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Boulevard Of Broken Dreams (Live Video)</TitleText>
+          <SubTitle>Boulevard Of Broken Dreams</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>FRANK WRIGHT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MICHAEL PRITCHARD</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T27</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500300_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>1b1f3c9549b3025ef5d6f18220b6bc6c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T28</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500300_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>cbd0cda41505ed8b51d3e0752e5a2c40</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Video>
+      <VideoType>LongFormMusicalWorkVideo</VideoType>
+      <VideoId>
+        <ISRC>USREV0500301</ISRC>
+      </VideoId>
+      <ResourceReference>A15</ResourceReference>
+      <Duration>PT1M10S</Duration>
+      <VideoDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Good Riddance (Time Of Your Life) (Live Video)</TitleText>
+          <SubTitle>Good Riddance</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Alex Shaw</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Arranger">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>BILLIE JOE</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Billie Joe Armstrong</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Guitar">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lead Vocals"
+            >UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Lyricist">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Chris Dugan</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Cinematographer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Devin Sarno</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Composer">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Kim Dellara</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>MIKE DIRNT</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Bass">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Pat Magnarella</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Executive Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Peter Standish</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>RSA USA/Black Dog Films</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Production"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Samuel Bayer</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Director"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tim Lynch</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Video Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tom Whalley</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Associate Producer"
+            >UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <ResourceContributor>
+          <PartyName>
+            <FullName>Tré Cool</FullName>
+          </PartyName>
+          <ResourceContributorRole UserDefinedValue="Drums">UserDefined</ResourceContributorRole>
+          <ResourceContributorRole UserDefinedValue="Vocals">UserDefined</ResourceContributorRole>
+        </ResourceContributor>
+        <PLine>
+          <Year>2005</Year>
+          <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+            outside of the U.S.</PLineText>
+        </PLine>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T29</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-4</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500301_5000.mp4</FileName>
+            <HashSum>
+              <HashSum>fabfb59aa44009d9947d5303fb20cbc4</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+        <TechnicalVideoDetails>
+          <TechnicalResourceDetailsReference>T30</TechnicalResourceDetailsReference>
+          <VideoCodecType>MPEG-2</VideoCodecType>
+          <IsPreview>false</IsPreview>
+          <File>
+            <FileName>USREV0500301_15384.mpg</FileName>
+            <HashSum>
+              <HashSum>674e0f97d65ff3dc7c5c295f505ad742</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalVideoDetails>
+      </VideoDetailsByTerritory>
+    </Video>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500287.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A16</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T31</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500287.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>3d9dbf1eb5cf34b5572345086fe77b7f</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500288.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A17</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T32</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500288.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>6180fef7aa650ebc57f14defe43d9675</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500289.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A18</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T33</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500289.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>92aa5c766c8acee6f378217f94554f0f</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500290.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A19</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T34</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500290.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>f294952695088e7f6f1ba7c2a1b4ca3c</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500291.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A20</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T35</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500291.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>d8b000b928fd29f34ffef6ac12e4622f</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500292.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A21</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T36</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500292.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>c063ded5da24685dc88ed5405c4a3982</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500293.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A22</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T37</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500293.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>22519277192f3813e8b44063d241f183</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500294.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A23</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T38</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500294.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>bdc4b5e19ff2d584d0e4cf467f2a12b9</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500295.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A24</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T39</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500295.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>aee1bd0b12c2d101edfa3da9e062274d</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500296.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A25</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T40</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500296.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>ff5fcf16f1ef4f1fe91a87678505c5f8</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500297.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A26</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T41</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500297.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>8db59155583710383c0449ed70fe2083</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500298.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A27</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T42</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500298.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>597f9d2a7906aeadb1a2cad1b3183bc6</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500299.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A28</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T43</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500299.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>368558c75dccc073755cb618dc04dee6</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500300.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A29</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T44</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500300.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>9f348952a9c302321cd0a274f4956d64</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>VideoScreenCapture</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">USREV0500301.sc1.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A30</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T45</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>480</ImageHeight>
+          <ImageWidth>640</ImageWidth>
+          <File>
+            <FileName>USREV0500301.sc1.jpg</FileName>
+            <HashSum>
+              <HashSum>b503151110d397f52eeab4f9fe77c8e6</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+    <Image>
+      <ImageType>FrontCoverImage</ImageType>
+      <ImageId>
+        <ProprietaryId Namespace="WMG">093624946625.75.jpg</ProprietaryId>
+      </ImageId>
+      <ResourceReference>A31</ResourceReference>
+      <ImageDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <TechnicalImageDetails>
+          <TechnicalResourceDetailsReference>T46</TechnicalResourceDetailsReference>
+          <ImageCodecType>JPEG</ImageCodecType>
+          <ImageHeight>66</ImageHeight>
+          <ImageWidth>75</ImageWidth>
+          <File>
+            <FileName>093624946625.75.jpg</FileName>
+            <HashSum>
+              <HashSum>b1655c2908234e157bce199fa31b0257</HashSum>
+              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+            </HashSum>
+          </File>
+        </TechnicalImageDetails>
+      </ImageDetailsByTerritory>
+    </Image>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000121597F</GRid>
+        <ICPN IsEan="false">075993865868</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R1</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Bullet In A Bible</TitleText>
+        <SubTitle>Bullet In A Bible (EVD Album-Videos Only)</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A1</ReleaseResourceReference>
+        <ReleaseResourceReference>A2</ReleaseResourceReference>
+        <ReleaseResourceReference>A3</ReleaseResourceReference>
+        <ReleaseResourceReference>A4</ReleaseResourceReference>
+        <ReleaseResourceReference>A5</ReleaseResourceReference>
+        <ReleaseResourceReference>A6</ReleaseResourceReference>
+        <ReleaseResourceReference>A7</ReleaseResourceReference>
+        <ReleaseResourceReference>A8</ReleaseResourceReference>
+        <ReleaseResourceReference>A9</ReleaseResourceReference>
+        <ReleaseResourceReference>A10</ReleaseResourceReference>
+        <ReleaseResourceReference>A11</ReleaseResourceReference>
+        <ReleaseResourceReference>A12</ReleaseResourceReference>
+        <ReleaseResourceReference>A13</ReleaseResourceReference>
+        <ReleaseResourceReference>A14</ReleaseResourceReference>
+        <ReleaseResourceReference>A15</ReleaseResourceReference>
+        <ReleaseResourceReference>A16</ReleaseResourceReference>
+        <ReleaseResourceReference>A17</ReleaseResourceReference>
+        <ReleaseResourceReference>A18</ReleaseResourceReference>
+        <ReleaseResourceReference>A19</ReleaseResourceReference>
+        <ReleaseResourceReference>A20</ReleaseResourceReference>
+        <ReleaseResourceReference>A21</ReleaseResourceReference>
+        <ReleaseResourceReference>A22</ReleaseResourceReference>
+        <ReleaseResourceReference>A23</ReleaseResourceReference>
+        <ReleaseResourceReference>A24</ReleaseResourceReference>
+        <ReleaseResourceReference>A25</ReleaseResourceReference>
+        <ReleaseResourceReference>A26</ReleaseResourceReference>
+        <ReleaseResourceReference>A27</ReleaseResourceReference>
+        <ReleaseResourceReference>A28</ReleaseResourceReference>
+        <ReleaseResourceReference>A29</ReleaseResourceReference>
+        <ReleaseResourceReference>A30</ReleaseResourceReference>
+        <ReleaseResourceReference>A31</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>LongFormMusicalWorkVideoRelease</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <LabelName>Reprise</LabelName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Bullet In A Bible</TitleText>
+          <SubTitle>Bullet In A Bible (EVD Album-Videos Only)</SubTitle>
+        </Title>
+        <Title TitleType="GroupingTitle">
+          <TitleText>Bullet In A Bible</TitleText>
+          <SubTitle>Bullet In A Bible (EVD Album-Videos Only)</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ParentalWarningType>Explicit</ParentalWarningType>
+        <ResourceGroup>
+          <SequenceNumber>1</SequenceNumber>
+          <ResourceGroupContentItem>
+            <SequenceNumber>1</SequenceNumber>
+            <ReleaseResourceReference>A1</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A16</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>2</SequenceNumber>
+            <ReleaseResourceReference>A2</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A17</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>3</SequenceNumber>
+            <ReleaseResourceReference>A3</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A18</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>4</SequenceNumber>
+            <ReleaseResourceReference>A4</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A19</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>5</SequenceNumber>
+            <ReleaseResourceReference>A5</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A20</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>6</SequenceNumber>
+            <ReleaseResourceReference>A6</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A21</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>7</SequenceNumber>
+            <ReleaseResourceReference>A7</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A22</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>8</SequenceNumber>
+            <ReleaseResourceReference>A8</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A23</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>9</SequenceNumber>
+            <ReleaseResourceReference>A9</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A24</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>10</SequenceNumber>
+            <ReleaseResourceReference>A10</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A25</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>11</SequenceNumber>
+            <ReleaseResourceReference>A11</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A26</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>12</SequenceNumber>
+            <ReleaseResourceReference>A12</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A27</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>13</SequenceNumber>
+            <ReleaseResourceReference>A13</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A28</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>14</SequenceNumber>
+            <ReleaseResourceReference>A14</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A29</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+          <ResourceGroupContentItem>
+            <SequenceNumber>15</SequenceNumber>
+            <ReleaseResourceReference>A15</ReleaseResourceReference>
+            <LinkedReleaseResourceReference>A30</LinkedReleaseResourceReference>
+          </ResourceGroupContentItem>
+        </ResourceGroup>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <OriginalReleaseDate>2005-11-11</OriginalReleaseDate>
+        <Keywords>Green Day Bullet In A Bible Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside the U.S.</PLineText>
+      </PLine>
+      <CLine>
+        <Year>2005</Year>
+        <CLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside the U.S.</CLineText>
+      </CLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000156690Y</GRid>
+        <ISRC>USREV0500287</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R2</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Intro (Live Video)</TitleText>
+        <SubTitle>Intro</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A1</ReleaseResourceReference>
+        <ReleaseResourceReference>A16</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Intro (Live Video)</TitleText>
+          <SubTitle>Intro</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Intro Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside the U.S.</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000156691W</GRid>
+        <ISRC>USREV0500288</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R3</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>American Idiot (Live Video)</TitleText>
+        <SubTitle>American Idiot</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A2</ReleaseResourceReference>
+        <ReleaseResourceReference>A17</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>American Idiot (Live Video)</TitleText>
+          <SubTitle>American Idiot</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day American Idiot Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B00001241857</GRid>
+        <ISRC>USREV0500289</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R4</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Jesus Of Suburbia (Live Video)</TitleText>
+        <SubTitle>Jesus Of Suburbia</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A3</ReleaseResourceReference>
+        <ReleaseResourceReference>A18</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jesus Of Suburbia (Live Video)</TitleText>
+          <SubTitle>Jesus Of Suburbia</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Jesus Of Suburbia Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137307H</GRid>
+        <ISRC>USREV0500290</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R5</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Holiday (Live Video)</TitleText>
+        <SubTitle>Holiday</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A4</ReleaseResourceReference>
+        <ReleaseResourceReference>A19</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Holiday (Live Video)</TitleText>
+          <SubTitle>Holiday</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Holiday Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B00001256506</GRid>
+        <ISRC>USREV0500291</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R6</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Are We The Waiting (Live Video)</TitleText>
+        <SubTitle>Are We The Waiting</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A5</ReleaseResourceReference>
+        <ReleaseResourceReference>A20</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Are We The Waiting (Live Video)</TitleText>
+          <SubTitle>Are We The Waiting</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Are We The Waiting Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B00001241849</GRid>
+        <ISRC>USREV0500292</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R7</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>St. Jimmy (Live Video)</TitleText>
+        <SubTitle>St. Jimmy</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A6</ReleaseResourceReference>
+        <ReleaseResourceReference>A21</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>St. Jimmy (Live Video)</TitleText>
+          <SubTitle>St. Jimmy</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day St. Jimmy Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137310R</GRid>
+        <ISRC>USREV0500293</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R8</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Longview (Live Video)</TitleText>
+        <SubTitle>Longview</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A7</ReleaseResourceReference>
+        <ReleaseResourceReference>A22</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Longview (Live Video)</TitleText>
+          <SubTitle>Longview</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Longview Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside of the U.S.</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137311P</GRid>
+        <ISRC>USREV0500294</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R9</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Hitchin&apos; A Ride (Live Video)</TitleText>
+        <SubTitle>Hitchin&apos; A Ride</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A8</ReleaseResourceReference>
+        <ReleaseResourceReference>A23</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Hitchin&apos; A Ride (Live Video)</TitleText>
+          <SubTitle>Hitchin&apos; A Ride</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Hitchin&apos; A Ride Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside of the U.S.</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137312N</GRid>
+        <ISRC>USREV0500295</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R10</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Brain Stew (Live Video)</TitleText>
+        <SubTitle>Brain Stew</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A9</ReleaseResourceReference>
+        <ReleaseResourceReference>A24</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Brain Stew (Live Video)</TitleText>
+          <SubTitle>Brain Stew</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Brain Stew Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137313L</GRid>
+        <ISRC>USREV0500296</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R11</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Basket Case (Live Video)</TitleText>
+        <SubTitle>Basket Case</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A10</ReleaseResourceReference>
+        <ReleaseResourceReference>A25</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Basket Case (Live Video)</TitleText>
+          <SubTitle>Basket Case</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Basket Case Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside of the U.S.</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137314J</GRid>
+        <ISRC>USREV0500297</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R12</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>King For A Day/Shout (Live Video)</TitleText>
+        <SubTitle>King For A Day/Shout</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A11</ReleaseResourceReference>
+        <ReleaseResourceReference>A26</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>King For A Day/Shout (Live Video)</TitleText>
+          <SubTitle>King For A Day/Shout</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day King For A Day/Shout Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside of the U.S.</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137315H</GRid>
+        <ISRC>USREV0500298</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R13</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Wake Me Up When September Ends (Live Video)</TitleText>
+        <SubTitle>Wake Me Up When September Ends</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A12</ReleaseResourceReference>
+        <ReleaseResourceReference>A27</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Wake Me Up When September Ends (Live Video)</TitleText>
+          <SubTitle>Wake Me Up When September Ends</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Wake Me Up When September Ends Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137316F</GRid>
+        <ISRC>USREV0500299</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R14</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Minority (Live Video)</TitleText>
+        <SubTitle>Minority</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A13</ReleaseResourceReference>
+        <ReleaseResourceReference>A28</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Minority (Live Video)</TitleText>
+          <SubTitle>Minority</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Minority Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2000</Year>
+        <PLineText>2000 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B00001241865</GRid>
+        <ISRC>USREV0500300</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R15</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Boulevard Of Broken Dreams (Live Video)</TitleText>
+        <SubTitle>Boulevard Of Broken Dreams</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A14</ReleaseResourceReference>
+        <ReleaseResourceReference>A29</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Boulevard Of Broken Dreams (Live Video)</TitleText>
+          <SubTitle>Boulevard Of Broken Dreams</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Boulevard Of Broken Dreams Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records</PLineText>
+      </PLine>
+    </Release>
+    <Release>
+      <ReleaseId>
+        <GRid>A10302B0000137318B</GRid>
+        <ISRC>USREV0500301</ISRC>
+      </ReleaseId>
+      <ReleaseReference>R16</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Good Riddance (Time Of Your Life) (Live Video)</TitleText>
+        <SubTitle>Good Riddance</SubTitle>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference>A15</ReleaseResourceReference>
+        <ReleaseResourceReference>A30</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Green Day</DisplayArtistName>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Good Riddance (Time Of Your Life) (Live Video)</TitleText>
+          <SubTitle>Good Riddance</SubTitle>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Green Day</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <ReleaseType>TrackRelease</ReleaseType>
+        <Genre>
+          <GenreText>Alternative Rock</GenreText>
+        </Genre>
+        <Keywords>Green Day Good Riddance Alternative Rock </Keywords>
+      </ReleaseDetailsByTerritory>
+      <PLine>
+        <Year>2005</Year>
+        <PLineText>2005 Reprise Records for the U.S. and WEA International Inc. for the world
+          outside of the U.S.</PLineText>
+      </PLine>
+    </Release>
+  </ReleaseList>
+  <DealList>
+    <ReleaseDeal>
+      <DealReleaseReference>R1</DealReleaseReference>
+      <Deal>
+        <DealReference>136566425</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">A14</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R2</DealReleaseReference>
+      <Deal>
+        <DealReference>136566426</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R3</DealReleaseReference>
+      <Deal>
+        <DealReference>136566427</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R4</DealReleaseReference>
+      <Deal>
+        <DealReference>136566428</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R5</DealReleaseReference>
+      <Deal>
+        <DealReference>136566429</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R6</DealReleaseReference>
+      <Deal>
+        <DealReference>136566430</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R7</DealReleaseReference>
+      <Deal>
+        <DealReference>136566431</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R8</DealReleaseReference>
+      <Deal>
+        <DealReference>136566432</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R9</DealReleaseReference>
+      <Deal>
+        <DealReference>136566433</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R10</DealReleaseReference>
+      <Deal>
+        <DealReference>136566434</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R11</DealReleaseReference>
+      <Deal>
+        <DealReference>136566435</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R12</DealReleaseReference>
+      <Deal>
+        <DealReference>136566436</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R13</DealReleaseReference>
+      <Deal>
+        <DealReference>136566437</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R14</DealReleaseReference>
+      <Deal>
+        <DealReference>136566438</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R15</DealReleaseReference>
+      <Deal>
+        <DealReference>136566439</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+    <ReleaseDeal>
+      <DealReleaseReference>R16</DealReleaseReference>
+      <Deal>
+        <DealReference>136566440</DealReference>
+        <DealTerms>
+          <CommercialModelType>AsPerContract</CommercialModelType>
+          <Usage>
+            <UseType UserDefinedValue="Ad-Supported Streaming">UserDefined</UseType>
+            <UseType UserDefinedValue="Electronic Temporary Usage">UserDefined</UseType>
+            <UseType>PermanentDownload</UseType>
+          </Usage>
+          <TerritoryCode>US</TerritoryCode>
+          <PriceInformation>
+            <PriceRangeType Namespace="WMG">V1</PriceRangeType>
+          </PriceInformation>
+          <ValidityPeriod>
+            <StartDate>2005-11-15</StartDate>
+          </ValidityPeriod>
+        </DealTerms>
+      </Deal>
+      <EffectiveDate>2009-10-07</EffectiveDate>
+    </ReleaseDeal>
+  </DealList>
+</ern:NewReleaseMessage>
