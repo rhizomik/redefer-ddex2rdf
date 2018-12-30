@@ -17,16 +17,7 @@ public class DDEX2RDFService {
     private static final Logger log = Logger.getLogger(DDEX2RDFService.class.getName());
 
     static String rdfHead = "<rdf:RDF\n" +
-            " xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n" +
-            " xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"\n" +
-            " xmlns:owl=\"http://www.w3.org/2002/07/owl#\"\n" +
-            " xmlns:ddex=\"http://rhizomik.net/ontologies/2011/06/ddex.owl#\"\n" +
-            " xmlns:currency=\"http://rhizomik.net/ontologies/2011/06/iso4217a.owl#\"\n" +
-            " xmlns:territory=\"http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#\"\n" +
-            " xmlns:language=\"http://rhizomik.net/ontologies/2011/06/iso639a2.owl#\"\n" +
-            " xmlns:cro=\"http://rhizomik.net/ontologies/copyrightonto.owl#\"\n" +
-            " xmlns:dct=\"http://purl.org/dc/terms/\"\n" +
-            " xmlns:ma=\"http://www.w3.org/ns/ma-ont#\">\n";
+            " xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n";
     static String rdfFoot = "\n</rdf:RDF>";
 
     XQPreparedExpression xquery;
