@@ -193,7 +193,7 @@ for $deal at $i in doc($file)//DealTerms
             )
         }
         { for $territory in $deal/TerritoryCode return
-            <schema:locationf rdf:resource="{concat($territories, $territory)}"/>
+            <schema:location rdf:resource="{concat($territories, $territory)}"/>
         }
         { if (count($deal/ValidityPeriod)>0) then
                ( if ($deal/ValidityPeriod/StartDate[1]) then
