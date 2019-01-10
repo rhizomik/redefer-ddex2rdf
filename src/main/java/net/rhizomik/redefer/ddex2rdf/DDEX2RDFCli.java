@@ -18,31 +18,40 @@ public class DDEX2RDFCli {
             throws XQException, InstantiationException, IllegalAccessException, ClassNotFoundException, IOException {
 
         if (args.length < 2) {
-            System.err.println("$> DDEX2RDFCli XQueryPath XMLFilePath|XMLFolderPath [OutputRDFFile] ");
+            System.err.println("\nUsage instructions: \n\n" +
+                "* Write single DDEX XML file to output file or standard output: \n" +
+                "   $> DDEX2RDFCli XQueryPath XMLFilePath [OutputRDFFile] \n" +
+                "* Write all DDEX XML files in folder to corresponding 'FILENAME.rdf' file: \n" +
+                "   $> DDEX2RDFCli XQueryPath XMLFolderPath ");
             System.exit(-1);
         }
 
         DDEX2RDFService ern2rdf = new DDEX2RDFService(new File(args[0]));
 
-        String rdf = "";
+        String rdf;
         File input = new File(args[1]);
-        if (input.isDirectory())
-            for (File f : input.listFiles(new XMLFileFilter()))
-            {
+        if (input.isDirectory()) {
+            for (File f : input.listFiles(new XMLFileFilter())) {
                 log.log(Level.INFO, "Processing file: " + f);
-                rdf += ern2rdf.XMLFiletoRDF(f, f.getAbsolutePath());
+                rdf = ern2rdf.XMLFiletoRDF(f, f.getAbsolutePath());
+                rdf = ern2rdf.addRDFHeadAndFoot(rdf);
+                String rdfFile = f.getPath().substring(0, f.getPath().lastIndexOf(".xml")) + ".rdf";
+                PrintWriter out = new PrintWriter(rdfFile);
+                out.println(rdf);
+                out.close();
+                log.log(Level.INFO, "Wrote RDF to file: " + rdfFile);
             }
-        else
-            rdf += ern2rdf.XMLFiletoRDF(input, input.getAbsolutePath());
-
-        rdf = ern2rdf.addRDFHeadAndFoot(rdf);
-
-        if (args.length > 2) {
-            PrintWriter out = new PrintWriter(args[2]);
-            out.println(rdf);
-            out.close();
-        } else
-            System.out.println(rdf);
+        }
+        else {
+            rdf = ern2rdf.XMLFiletoRDF(input, input.getAbsolutePath());
+            rdf = ern2rdf.addRDFHeadAndFoot(rdf);
+            if (args.length > 2) {
+                PrintWriter out = new PrintWriter(args[2]);
+                out.println(rdf);
+                out.close();
+            } else
+                System.out.println(rdf);
+        }
     }
 
     private static class XMLFileFilter implements FilenameFilter {
