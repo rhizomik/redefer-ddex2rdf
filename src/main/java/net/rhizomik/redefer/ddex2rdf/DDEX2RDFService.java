@@ -17,7 +17,8 @@ public class DDEX2RDFService {
     private static final Logger log = Logger.getLogger(DDEX2RDFService.class.getName());
 
     static String rdfHead = "<rdf:RDF\n" +
-            " xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">\n";
+            " xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n" +
+            " xmlns:ddex=\"http://rhizomik.net/ontologies/ddexonto#\">\n";
     static String rdfFoot = "\n</rdf:RDF>";
 
     XQPreparedExpression xquery;
