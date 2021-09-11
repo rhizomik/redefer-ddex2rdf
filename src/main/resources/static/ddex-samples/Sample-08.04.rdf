@@ -1,0 +1,29 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:ddex="http://rhizomik.net/ontologies/ddexonto#">
+<cro:Agree xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#"
+           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+           rdf:about="http://rhizomik.net/redefer/ddex2rdf/Sample-08.04.xml">
+   <cro:pointInTime>2009-10-07</cro:pointInTime>
+   <schema:object xmlns:schema="http://schema.org/">
+      <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                       rdf:about="http://rhizomik.net/redefer/ddex2rdf/Sample-08.04.xml#deal-1">
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#Ad-SupportedStreaming"/>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#ElectronicTemporaryUsage"/>
+         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#PermanentDownload"/>
+         <schema:object xmlns:schema="http://schema.org/"
+                        rdf:resource="urn:grid:A10302B0000738284B"/>
+         <schema:location xmlns:schema="http://schema.org/"
+                          rdf:resource="http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#US"/>
+         <cro:start xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#">2009-10-13</cro:start>
+         <cro:how xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#"
+                  rdf:resource="http://rhizomik.net/ontologies/ddexonto#AsPerContractValue"/>
+         <cro:condition xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#">
+            <rdf:Description rdf:about="urn:WMG/V1">
+               <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#PriceRangeType"/>
+            </rdf:Description>
+         </cro:condition>
+      </rdf:Description>
+   </schema:object>
+</cro:Agree>
+</rdf:RDF>
