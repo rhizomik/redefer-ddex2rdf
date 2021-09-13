@@ -1,19 +1,19 @@
-declare namespace schema= "http://schema.org/";
-declare namespace cro=    "http://rhizomik.net/ontologies/copyrightonto.owl#";
-declare namespace ddex=   "http://rhizomik.net/ontologies/ddexonto#";
+declare namespace schema= "https://schema.org/";
+declare namespace cro=    "https://rhizomik.net/ontologies/copyrightonto.owl#";
+declare namespace ddex=   "https://rhizomik.net/ontologies/ddexonto#";
 declare namespace rdf=    "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
 declare namespace rdfs=   "http://www.w3.org/2000/01/rdf-schema#";
 declare namespace owl=    "http://www.w3.org/2002/07/owl#";
 declare namespace dct=    "http://purl.org/dc/terms/";
 declare namespace xsd=    "http://www.w3.org/2001/XMLSchema#";
 
-declare variable $territories := "http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#";
-declare variable $currencies := "http://rhizomik.net/ontologies/2011/06/iso4217a.owl#";
-declare variable $ddex := "http://rhizomik.net/ontologies/ddexonto#";
-declare variable $schema := "http://schema.org/";
-declare variable $cro := "http://rhizomik.net/ontologies/copyrightonto.owl#";
+declare variable $territories := "https://rhizomik.net/ontologies/2011/06/iso3166a2.owl#";
+declare variable $currencies := "https://rhizomik.net/ontologies/2011/06/iso4217a.owl#";
+declare variable $ddex := "https://rhizomik.net/ontologies/ddexonto#";
+declare variable $schema := "https://schema.org/";
+declare variable $cro := "https://rhizomik.net/ontologies/copyrightonto.owl#";
 declare variable $rdf := "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
-declare variable $baseURI := "http://rhizomik.net/redefer/ddex2rdf/";
+declare variable $baseURI := "https://ddex2rdf.redefer.rhizomik.net/";
 declare variable $file external;
 declare variable $fullPath external;
 declare variable $base := concat($baseURI,local:filename($file));
