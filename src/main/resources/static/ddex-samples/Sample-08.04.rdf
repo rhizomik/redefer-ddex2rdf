@@ -1,26 +1,87 @@
 <rdf:RDF
  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
  xmlns:ddex="http://rhizomik.net/ontologies/ddexonto#">
-<cro:Agree xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#"
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:isrc:USRY20810140">
+   <rdf:type rdf:resource="https://schema.org/CreativeWork"/>
+   <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#ShortFormMusicalWorkVideo"/>
+   <schema:identifier xmlns:schema="https://schema.org/">USRY20810140</schema:identifier>
+   <schema:name xmlns:schema="https://schema.org/">Frontload (Single Version)</schema:name>
+   <schema:alternativeHeadline xmlns:schema="https://schema.org/">Frontload</schema:alternativeHeadline>
+   <schema:duration xmlns:schema="https://schema.org/">PT5M20S</schema:duration>
+   <schema:creator xmlns:schema="https://schema.org/">Freezepop</schema:creator>
+   <schema:copyrightYear xmlns:schema="https://schema.org/">2008</schema:copyrightYear>
+   <dct:copyright xmlns:dct="http://purl.org/dc/terms/">2008 Freezepop</dct:copyright>
+   <schema:genre xmlns:schema="https://schema.org/">Electronica</schema:genre>
+   <schema:associatedMedia xmlns:schema="https://schema.org/" rdf:parseType="Collection">
+      <rdf:Description
+                       rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T1">
+         <rdf:type rdf:resource="https://schema.org/MusicVideoObject"/>
+         <schema:encodingFormat xmlns:schema="https://schema.org/">MPEG-2</schema:encodingFormat>
+         <schema:name xmlns:schema="https://schema.org/">USRY20810140_15384.mpg</schema:name>
+      </rdf:Description>
+   </schema:associatedMedia>
+   <schema:associatedMedia xmlns:schema="https://schema.org/" rdf:parseType="Collection">
+      <rdf:Description
+                       rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T2">
+         <rdf:type rdf:resource="https://schema.org/MusicVideoObject"/>
+         <schema:encodingFormat xmlns:schema="https://schema.org/">MPEG-4</schema:encodingFormat>
+         <schema:name xmlns:schema="https://schema.org/">USRY20810140_5000.mp4</schema:name>
+      </rdf:Description>
+   </schema:associatedMedia>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:WMG:USRY20810140.sc1.jpg">
+   <rdf:type rdf:resource="https://schema.org/CreativeWork"/>
+   <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#VideoScreenCapture"/>
+   <schema:identifier xmlns:schema="https://schema.org/">WMG-USRY20810140.sc1.jpg</schema:identifier>
+   <schema:associatedMedia xmlns:schema="https://schema.org/" rdf:parseType="Collection">
+      <rdf:Description
+                       rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T3">
+         <rdf:type rdf:resource="https://schema.org/ImageObject"/>
+         <schema:height xmlns:schema="https://schema.org/">480</schema:height>
+         <schema:width xmlns:schema="https://schema.org/">480</schema:width>
+         <schema:encodingFormat xmlns:schema="https://schema.org/">JPEG</schema:encodingFormat>
+         <schema:name xmlns:schema="https://schema.org/">USRY20810140.sc1.jpg</schema:name>
+      </rdf:Description>
+   </schema:associatedMedia>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 rdf:about="urn:WMG:014431096662.75.jpg">
+   <rdf:type rdf:resource="https://schema.org/CreativeWork"/>
+   <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#FrontCoverImage"/>
+   <schema:identifier xmlns:schema="https://schema.org/">WMG-014431096662.75.jpg</schema:identifier>
+   <schema:associatedMedia xmlns:schema="https://schema.org/" rdf:parseType="Collection">
+      <rdf:Description
+                       rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T4">
+         <rdf:type rdf:resource="https://schema.org/ImageObject"/>
+         <schema:height xmlns:schema="https://schema.org/">75</schema:height>
+         <schema:width xmlns:schema="https://schema.org/">75</schema:width>
+         <schema:encodingFormat xmlns:schema="https://schema.org/">JPEG</schema:encodingFormat>
+         <schema:name xmlns:schema="https://schema.org/">014431096662.75.jpg</schema:name>
+      </rdf:Description>
+   </schema:associatedMedia>
+</rdf:Description>
+<cro:Agree xmlns:cro="https://rhizomik.net/ontologies/copyrightonto.owl#"
            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-           rdf:about="http://rhizomik.net/redefer/ddex2rdf/Sample-08.04.xml">
+           rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml">
    <cro:pointInTime>2009-10-07</cro:pointInTime>
-   <schema:object xmlns:schema="http://schema.org/">
+   <schema:object xmlns:schema="https://schema.org/">
       <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                       rdf:about="http://rhizomik.net/redefer/ddex2rdf/Sample-08.04.xml#deal-1">
-         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#Ad-SupportedStreaming"/>
-         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#ElectronicTemporaryUsage"/>
-         <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#PermanentDownload"/>
-         <schema:object xmlns:schema="http://schema.org/"
+                       rdf:about="https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#deal-1">
+         <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#Ad-SupportedStreaming"/>
+         <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#ElectronicTemporaryUsage"/>
+         <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#PermanentDownload"/>
+         <schema:object xmlns:schema="https://schema.org/"
                         rdf:resource="urn:grid:A10302B0000738284B"/>
-         <schema:location xmlns:schema="http://schema.org/"
-                          rdf:resource="http://rhizomik.net/ontologies/2011/06/iso3166a2.owl#US"/>
-         <cro:start xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#">2009-10-13</cro:start>
-         <cro:how xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#"
-                  rdf:resource="http://rhizomik.net/ontologies/ddexonto#AsPerContractValue"/>
-         <cro:condition xmlns:cro="http://rhizomik.net/ontologies/copyrightonto.owl#">
+         <schema:location xmlns:schema="https://schema.org/"
+                          rdf:resource="https://rhizomik.net/ontologies/2011/06/iso3166a2.owl#US"/>
+         <cro:start xmlns:cro="https://rhizomik.net/ontologies/copyrightonto.owl#">2009-10-13</cro:start>
+         <cro:how xmlns:cro="https://rhizomik.net/ontologies/copyrightonto.owl#"
+                  rdf:resource="https://rhizomik.net/ontologies/ddexonto#AsPerContractValue"/>
+         <cro:condition xmlns:cro="https://rhizomik.net/ontologies/copyrightonto.owl#">
             <rdf:Description rdf:about="urn:WMG/V1">
-               <rdf:type rdf:resource="http://rhizomik.net/ontologies/ddexonto#PriceRangeType"/>
+               <rdf:type rdf:resource="https://rhizomik.net/ontologies/ddexonto#PriceRangeType"/>
             </rdf:Description>
          </cro:condition>
       </rdf:Description>

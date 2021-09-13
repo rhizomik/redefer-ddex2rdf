@@ -1,0 +1,72 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ddex: <http://rhizomik.net/ontologies/ddexonto#> .
+@prefix schema: <https://schema.org/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix cro: <https://rhizomik.net/ontologies/copyrightonto.owl#> .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml>
+    a cro:Agree ;
+    cro:pointInTime "2009-10-07" ;
+    schema:object <https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#deal-1> .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T1>
+    a schema:MusicVideoObject ;
+    schema:encodingFormat "MPEG-2" ;
+    schema:name "USRY20810140_15384.mpg" .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T2>
+    a schema:MusicVideoObject ;
+    schema:encodingFormat "MPEG-4" ;
+    schema:name "USRY20810140_5000.mp4" .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T3>
+    a schema:ImageObject ;
+    schema:encodingFormat "JPEG" ;
+    schema:height "480" ;
+    schema:name "USRY20810140.sc1.jpg" ;
+    schema:width "480" .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T4>
+    a schema:ImageObject ;
+    schema:encodingFormat "JPEG" ;
+    schema:height "75" ;
+    schema:name "014431096662.75.jpg" ;
+    schema:width "75" .
+
+<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#deal-1>
+    a <https://rhizomik.net/ontologies/ddexonto#Ad-SupportedStreaming>, <https://rhizomik.net/ontologies/ddexonto#ElectronicTemporaryUsage>, <https://rhizomik.net/ontologies/ddexonto#PermanentDownload> ;
+    cro:condition <urn:WMG/V1> ;
+    cro:how <https://rhizomik.net/ontologies/ddexonto#AsPerContractValue> ;
+    cro:start "2009-10-13" ;
+    schema:location <https://rhizomik.net/ontologies/2011/06/iso3166a2.owl#US> ;
+    schema:object <urn:grid:A10302B0000738284B> .
+
+<urn:WMG/V1>
+    a <https://rhizomik.net/ontologies/ddexonto#PriceRangeType> .
+
+<urn:WMG:014431096662.75.jpg>
+    a <https://rhizomik.net/ontologies/ddexonto#FrontCoverImage>, schema:CreativeWork ;
+    schema:associatedMedia (<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T4>
+    ) ;
+    schema:identifier "WMG-014431096662.75.jpg" .
+
+<urn:WMG:USRY20810140.sc1.jpg>
+    a <https://rhizomik.net/ontologies/ddexonto#VideoScreenCapture>, schema:CreativeWork ;
+    schema:associatedMedia (<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T3>
+    ) ;
+    schema:identifier "WMG-USRY20810140.sc1.jpg" .
+
+<urn:isrc:USRY20810140>
+    dct:copyright "2008 Freezepop" ;
+    a <https://rhizomik.net/ontologies/ddexonto#ShortFormMusicalWorkVideo>, schema:CreativeWork ;
+    schema:alternativeHeadline "Frontload" ;
+    schema:associatedMedia (<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T1>
+    ), (<https://ddex2rdf.redefer.rhizomik.net/Sample-08.04.xml#T2>
+    ) ;
+    schema:copyrightYear "2008" ;
+    schema:creator "Freezepop" ;
+    schema:duration "PT5M20S" ;
+    schema:genre "Electronica" ;
+    schema:identifier "USRY20810140" ;
+    schema:name "Frontload (Single Version)" .
+

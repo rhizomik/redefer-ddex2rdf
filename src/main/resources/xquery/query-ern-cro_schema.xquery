@@ -97,12 +97,50 @@ declare function local:buildLabelURI($label, $kind)
     return $uri
 };
 
-for $resource at $i in doc($file)//ResourceList/SoundRecording
+declare function local:resourceType($resource)
+{
+    let $primaryType := local-name($resource)
+    let $secondaryType := $resource/*[contains(local-name(.),"Type")][1]
+    return (
+        if ($primaryType = "SoundRecording") then (
+            <rdf:type rdf:resource="{concat($schema,"MusicRecording")}"/>
+        )
+        else if ($secondaryType) then (
+            <rdf:type rdf:resource="{concat($schema,"CreativeWork")}"/>,
+            <rdf:type rdf:resource="{concat($ddex,$secondaryType)}"/>
+        )
+        else (
+            <rdf:type rdf:resource="{concat($schema,"CreativeWork")}"/>
+        )
+    )
+};
+
+declare function local:detailType($detail)
+{
+    let $detailType := local-name($detail)
+    return (
+        if ($detailType = "TechnicalVideoDetails") then (
+            <rdf:type rdf:resource="{concat($schema,"MusicVideoObject")}"/>
+        )
+        else if ($detailType = "TechnicalImageDetails") then (
+            <rdf:type rdf:resource="{concat($schema,"ImageObject")}"/>
+        )
+        else if ($detailType = "TechnicalTextDetails") then (
+            <rdf:type rdf:resource="{concat($schema,"Text")}"/>
+        )
+        else (
+            <rdf:type rdf:resource="{concat($schema,"MediaObject")}"/>
+        )
+    )
+};
+
+for $resource at $i in doc($file)//ResourceList/*
     let $resourceId := local:getResourceURI(data($resource/ResourceReference))
     let $resourceDetails := $resource/*[contains(local-name(.),"DetailsByTerritory")][1]
     let $technicalDetails := $resourceDetails/*/TechnicalResourceDetailsReference/..
     return
-    <schema:MusicRecording rdf:about="{$resourceId}">
+    <rdf:Description rdf:about="{$resourceId}">
+        { local:resourceType($resource) }
         { if ($resource/*/ISRC) then <schema:identifier>{data($resource/*/ISRC)}</schema:identifier> else () }
         { if ($resource/*/ISBN) then <schema:identifier>{data($resource/*/ISBN)}</schema:identifier> else () }
         { if ($resource/*/ISSN) then <schema:identifier>{data($resource/*/ISSN)}</schema:identifier> else () }
@@ -111,9 +149,9 @@ for $resource at $i in doc($file)//ResourceList/SoundRecording
         { if ($resource/*/VISAN) then <schema:identifier>{data($resource/*/VISAN)}</schema:identifier> else () }
         { if ($resource/*/CatalogNumber) then <schema:identifier>{data($resource/*/CatalogNumber)}</schema:identifier> else () }
         { if ($resource/*/ProprietaryId) then <schema:identifier>{data($resource/*/ProprietaryId/@Namespace)}-{data($resource/*/ProprietaryId)}</schema:identifier> else () }
-        { for $title in $resource/(ReferenceTitle|Title)/TitleText
+        { for $title in $resource/(ReferenceTitle|Title)/TitleText | $resourceDetails/(ReferenceTitle|Title)/TitleText
             return <schema:name>{data($title)}</schema:name> }
-        { for $altTitle in $resource/(ReferenceTitle|Title)/SubTitle 
+        { for $altTitle in $resource/(ReferenceTitle|Title)/SubTitle  | $resourceDetails/(ReferenceTitle|Title)/SubTitle
             return <schema:alternativeHeadline>{data($altTitle)}</schema:alternativeHeadline> }
         { for $duration in $resource/Duration 
             return <schema:duration>{data($duration)}</schema:duration> }
@@ -131,7 +169,24 @@ for $resource at $i in doc($file)//ResourceList/SoundRecording
             return <schema:genre>{data($genre)}</schema:genre> }
         { for $parental in $resourceDetails/ParentalWarningType
             return <schema:contentRating>{data($parental)}</schema:contentRating> }
-    </schema:MusicRecording>,
+        {
+          for $detail at $i in $technicalDetails
+            let $detailId := local:getResourceURI(data($detail/TechnicalResourceDetailsReference))
+            return
+            <schema:associatedMedia rdf:parseType="Collection">
+                <rdf:Description rdf:about="{$detailId}">
+                    { local:detailType($detail)}
+                    { if ($detail/ImageHeight) then <schema:height>{data($detail/ImageHeight)}</schema:height> else () }
+                    { if ($detail/ImageWidth) then <schema:width>{data($detail/ImageHeight)}</schema:width> else () }
+                    { if ($detail/VideoCodecType | $detail/TextCodecType | $detail/ImageCodecType) then
+                        <schema:encodingFormat>{
+                            data($detail/VideoCodecType | $detail/TextCodecType | $detail/ImageCodecType)
+                        }</schema:encodingFormat> else () }
+                    { if ($detail/File/FileName) then <schema:name>{data($detail/File/FileName)}</schema:name> else () }
+                </rdf:Description>
+            </schema:associatedMedia>
+        }
+    </rdf:Description>,
 
 for $release at $i in doc($file)//ReleaseList/Release[ReleaseType="Album"]
     let $releaseId :=
